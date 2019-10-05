@@ -4,7 +4,7 @@ pipeline {
 			{
 			stage ('SCM Checkout')
 					{	
-						git 'https://github.com/arijitslg1/maven-project.git'
+						git 'https://github.com/arijitslg1/Ant-WebProject.git'
 					}
 			}
       {
